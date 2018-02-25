@@ -22,7 +22,8 @@ namespace factoryMethod
                     return objeto;
                     break;
                 case 2:
-                    return new ConcrectProductArchVideo();                   
+                    return new ConcrectProductArchVideo();    
+                    break;
                 default:
                     return null;
             }            
